@@ -1,0 +1,19 @@
+header {
+  text-align: center;
+}
+
+
+#title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+article {
+  text-align: center;
+}
+
+.article-separator {
+    margin-right: 20%;
+    margin-left: 20%;
+}
